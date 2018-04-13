@@ -1,0 +1,26 @@
+
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+
+# Local configuration file (sdk path, etc)
+local.propertiies
+
+# OSX files
+.DS_Store
+
+# Eclipse project files
+.classpath
+.project
+
+.gradle/
+build/
+
+app/build/
+
+gradle/
+
